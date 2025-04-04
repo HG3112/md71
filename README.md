@@ -14,7 +14,7 @@ md71 inputFileA inputFileB outputFileA outputFileB dialn_value compr_flags chanm
 
 md71 script take ac3/eac3 inputFileA and inputFileB and creates two outputs with the corrensponding flags/values changed, recalculating crc for each frame. It also display statistics, and header info for first frame in inputs.
 
-If inputFileA==inputFileB , the two input streams are taken from the same file assuming interleaved freames. The same holds for outputs. This is useful e.g. to mux/demux 7.1 eac3 files, which usually consist of an eac3/ac3 independent 5.1 core and a eac3 dependent 4.0 substream with surround speakers. See examples.
+If inputFileA==inputFileB , the two input streams are taken from the same file assuming interleaved frames. The same holds for outputs. This is useful e.g. to mux/demux 7.1 eac3 files, which usually consist of an eac3/ac3 independent 5.1 core and a eac3 dependent 4.0 substream with surround speakers. See examples.
 
 NOTES:
 
