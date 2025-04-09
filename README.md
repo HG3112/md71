@@ -6,7 +6,7 @@ This script is designed as a tool for 7.1 eac3 audio file
 
 ** W A R N I N G **
 
-This scirpt is in development/test stage. Please check outputs carefully. Use at your own risk.
+This script is in development/test stage. Please check outputs carefully. Use at your own risk.
 
 USAGE:
 
